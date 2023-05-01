@@ -11,8 +11,16 @@ PsikoLog, psikolojik destek almak isteyen hastalarla psikologları aynı platfor
 - Hastalar için birçok farklı psikolog arasından tercihlerini yapabilmeleri, randevu taleplerini kolayca oluşturabilmeleri ve psikologlar hakkında özel yorumlar yazarak diğer kullanıcılara yardımcı olabilmeleri hedeflenmektedir.
 - Psikologlar için daha fazla danışana ulaşabilmeleri, randevuları kolayca yanıtlayabilmeleri, yazdıkları blog yazılarını paylaşabilecekleri bir profil sayfasına sahip olmaları hedeflenmektedir.
 
-## Yazılım Geliştirme Metodolojisi
-Proje, Scrum metodolojisi kullanılarak geliştirilmektedir. Bu metodoloji, iteratif ve artan geliştirme, ürün sahibi ile yakın çalışma, kendi kendini organize eden takımlar ve şeffaflık gibi prensipleri içermektedir.
+## Benimsenen yazılım geliştirme metodolojisi: Scrum
+Scrum'un temel prensipleri arasında şunlar yer alır:
+
+- İteratif ve artan geliştirme: Geliştirme süreci, kısa ve önceden belirlenmiş sürelerde bölünür. Her bir süreç, ürünün belirli bir bölümünün geliştirilmesine odaklanır.
+
+- Ürün sahibi ile yakın çalışma: Ürün sahibi, ürünün geliştirilmesi sürecinde aktif bir şekilde yer alır. Bu, geliştirme ekibinin müşteri ihtiyaçlarını daha iyi anlamasına ve ürünü müşteri beklentilerine uygun hale getirmesine yardımcı olur.
+
+- Kendi kendini organize eden takımlar: Scrum ekibi, kendi kendini yönetebilen bir takım olarak çalışır. Bu, projede yer alan herkesin sorumluluk almasını ve işbirliği yapmasını sağlar.
+
+- Şeffaflık: Scrum, tüm ekibin projenin ilerlemesini takip etmesine olanak tanıyan şeffaf bir yapıya sahiptir. Bu, sorunların daha erken tespit edilmesine ve çözülmesine olanak tanır..
 
 ## Psikologlar İçin Sunulan Özellikler
 - Kayıt olma
