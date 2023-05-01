@@ -4,7 +4,7 @@ PsikoLog projesi, psikolojik destek almak isteyen hastaların ve psikologların 
 
 Aşağıda proje hakkında daha detaylı bilgi bulabilirsiniz.
 
-##Projenin Amacı
+## Projenin Amacı
 PsikoLog, psikolojik destek almak isteyen hastalarla psikologları aynı platformda buluşturmayı ve randevu işlemlerini kolaylaştırmayı hedefler.
 
 ## Projenin Hedefleri
