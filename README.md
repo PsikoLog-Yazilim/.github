@@ -7,14 +7,14 @@ Aşağıda proje hakkında daha detaylı bilgi bulabilirsiniz.
 ##Projenin Amacı
 PsikoLog, psikolojik destek almak isteyen hastalarla psikologları aynı platformda buluşturmayı ve randevu işlemlerini kolaylaştırmayı hedefler.
 
-##Projenin Hedefleri
+## Projenin Hedefleri
 - Hastalar için birçok farklı psikolog arasından tercihlerini yapabilmeleri, randevu taleplerini kolayca oluşturabilmeleri ve psikologlar hakkında özel yorumlar yazarak diğer kullanıcılara yardımcı olabilmeleri hedeflenmektedir.
 - Psikologlar için daha fazla danışana ulaşabilmeleri, randevuları kolayca yanıtlayabilmeleri, yazdıkları blog yazılarını paylaşabilecekleri bir profil sayfasına sahip olmaları hedeflenmektedir.
 
-##Yazılım Geliştirme Metodolojisi
+## Yazılım Geliştirme Metodolojisi
 Proje, Scrum metodolojisi kullanılarak geliştirilmektedir. Bu metodoloji, iteratif ve artan geliştirme, ürün sahibi ile yakın çalışma, kendi kendini organize eden takımlar ve şeffaflık gibi prensipleri içermektedir.
 
-##Psikologlar İçin Sunulan Özellikler
+## Psikologlar İçin Sunulan Özellikler
 - Kayıt olma
 - Giriş yapma
 - Randevu taleplerini yanıtlama
@@ -24,7 +24,7 @@ Proje, Scrum metodolojisi kullanılarak geliştirilmektedir. Bu metodoloji, iter
 - Blog yazısı paylaşma
 - Hasta ile mesajlaşma
 
-Hastalar İçin Sunulan Özellikler
+## Hastalar İçin Sunulan Özellikler
 - Kayıt olma
 - Giriş yapma
 - Randevu talebi oluşturma / iptal etme
@@ -34,10 +34,10 @@ Hastalar İçin Sunulan Özellikler
 - Psikolog ile mesajlaşma
 - ChatBot ile mesajlaşma
 
-##Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 Proje, Javascript, HTML, CSS, Bootstrap, PHP ve MySQL teknolojileri kullanılarak geliştirilmektedir.
 
-##Takım Üyeleri ve Yetkinlikleri
+## Takım Üyeleri ve Yetkinlikleri
 - [Samet Özkan](https://github.com/samet-ozkan) (Full Stack Developer)
 - [Ahmet Telli](https://github.com/ahmeTelli) (Back-end Developer)
 - [Enes Tektaş](https://github.com/enstkts) (Front-end Developer)
